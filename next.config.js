@@ -1,0 +1,1 @@
+const nextConfig = {\n  reactStrictMode: true,\n  swcMinify: true,\n  images: {\n    unoptimized: true,\n  },\n};\n\nmodule.exports = nextConfig;\n
