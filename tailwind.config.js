@@ -1,0 +1,1 @@
+module.exports = {\n  darkMode: ['class'],\n  content: [\n    './src/pages/**/*.{js,ts,jsx,tsx,mdx}',\n    './src/components/**/*.{js,ts,jsx,tsx,mdx}',\n    './src/app/**/*.{js,ts,jsx,tsx,mdx}',\n  ],\n  theme: {\n    extend: {\n      colors: {\n        primary: '#4F46E5',\n        accent: '#14B8A6',\n      },\n    },\n  },\n  plugins: [],\n};\n
